@@ -2,6 +2,7 @@ package com.snpsu.Threads.WaysOfCreatingThreads.RunnableInterface;
 
 class MyTask1 implements Runnable{
     public void run(){
+
         System.out.println("Task 1 is running");
     }
 
